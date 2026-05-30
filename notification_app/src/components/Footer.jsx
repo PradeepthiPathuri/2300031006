@@ -8,7 +8,7 @@ function Footer() {
         color: "gray"
       }}
     >
-      Built by Pradeepthi
+     
     </div>
   );
 }
