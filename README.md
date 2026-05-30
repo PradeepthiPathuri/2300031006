@@ -132,8 +132,16 @@ npm run dev
 * Desktop UI
 * Filter Functionality
 * Notifications Dashboard
+<<<<<<< HEAD
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
 ---
 
+=======
+
+
+---
+
+
+>>>>>>> e34fde2c49a17ff92e4f200f957bf95e2eb505d8
