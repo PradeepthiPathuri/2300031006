@@ -137,7 +137,4 @@ npm run dev
 
 ---
 
-## Author
 
-Pradeepthi
-Roll No: 2300031006
